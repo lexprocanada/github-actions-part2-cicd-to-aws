@@ -4,7 +4,7 @@ env:
   EB_APPLICATION_NAME       : "MyFlusk"
   EB_ENVIRONMENT_NAME       : "MyFlusk-env"
   DEPLOY_PACKAGE_NAME       : "flusk_app_${{ github.sha }}.zip"
-  AWS_REGION_NAME           : "us-west-2"
+  AWS_REGION_NAME           : "ca-central-1"
 
 on:  
   push:
