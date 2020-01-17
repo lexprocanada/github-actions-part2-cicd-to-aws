@@ -37,4 +37,3 @@ jobs:
       run: echo "CI Pipeline part finished succesfully!"
       
     
-     
